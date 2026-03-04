@@ -2,7 +2,7 @@ export const site = {
   brand: "Congomen",
   metaTitle: "Congomen — Tears of Congo (Na Leli)",
   metaDescription:
-    "Congomen n'est ni un label ni une marque ; c'est un cri du cœur. Listen to the new single 'Tears of Congo (Na Leli)' out now on all platforms.",
+    "2026 Congomen n'est ni un label ni une marque ; c'est un cri du cœur. Listen to the new single 'Tears of Congo (Na Leli)' out now on all platforms.",
   baseUrl: "https://congomen.com",
   themeColor: "#FF0000", // Congolese Red
 
