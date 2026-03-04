@@ -26,13 +26,13 @@ export const site = {
       "A cry from the heart. A message of resilience. The new single by Congomen.",
     ctaPrimary: {
       label: "Listen on Spotify",
-      href: "https://open.spotify.com/artist/6P0L...", // Add your direct link here
+      href: "https://open.spotify.com/album/5NkGDNQDlgokWaaMNaqfBo", // Add your direct link here
     },
     ctaSecondary: {
       label: "Follow on Instagram",
       href: "https://www.instagram.com/congomen2026/",
     },
-    image: "/templates/photography-hero.jpg", // Ensure your cover art is in /public
+    image: "/templates/congomen-hero.jpg", // Ensure your cover art is in /public
   },
 
   sections: [
