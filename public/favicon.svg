@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Outer amber circle -->
+  <circle cx="60" cy="60" r="55" fill="#F59E0B"/>
+  <!-- Inner white disc -->
+  <circle cx="60" cy="60" r="25" fill="white"/>
+</svg>
