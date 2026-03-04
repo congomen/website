@@ -32,7 +32,7 @@ export const site = {
       label: "Follow on Instagram",
       href: "https://www.instagram.com/congomen2026/",
     },
-    image: "/templates/congomen-hero.jpg", // Ensure your cover art is in /public
+    image: "/congomen-hero.jpg", // Ensure your cover art is in /public
   },
 
   sections: [
